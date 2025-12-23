@@ -22,3 +22,7 @@ The program utilizes simple file I/O (Input/Output) techniques in C++. It includ
 #### Output
 When the code is executed, it creates a folder containing `sensor_data.txt`.
 This is the valid output of the program and contains the generated sensor readings.
+---
+#### Final submission date and time
+Date-21/12/2025  
+Time-12:45 AM
